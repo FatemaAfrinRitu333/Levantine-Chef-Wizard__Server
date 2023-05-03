@@ -1,0 +1,35 @@
+[
+    {
+      "id": "1",
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "Jad Bou Chebl",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 12,
+      "likes": 120
+    },
+    {
+      "id": "2",
+      "chefPicture": "https://example.com/chef2.jpg",
+      "chefName": "Maroun Chedid",
+      "yearsOfExperience": 25,
+      "numberOfRecipes": 15,
+      "likes": 70
+    },
+    {
+      "id": "3",
+      "chefPicture": "https://example.com/chef3.jpg",
+      "chefName": "Kamal Mouzawak",
+      "yearsOfExperience": 20,
+      "numberOfRecipes": 8,
+      "likes": 150
+    },
+    {
+      "id": "4",
+      "chefPicture": "https://example.com/chef4.jpg",
+      "chefName": "Riad El-Solh",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 20,
+      "likes": 220
+    }
+  ]
+  
