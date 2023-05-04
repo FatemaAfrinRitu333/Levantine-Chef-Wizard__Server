@@ -1,0 +1,579 @@
+[
+    {
+        "chefId": 1,
+        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Barbara-Massaad-Cookbook-Author-President-Slow-Food-Beirut.jpg",
+        "chefName": "Barbara Massaad",
+        "description": "Barbara Massaad is a Lebanese chef with 15 years of experience in the culinary industry. He has a passion for creating innovative and delicious dishes that showcase the flavors of Lebanon. With 120 recipes under his belt, Jad is constantly experimenting with new ingredients and techniques to surprise and delight his customers. His dedication to quality and attention to detail have earned him a loyal following of foodies who appreciate his commitment to excellence.",
+        "likes": 120,
+        "numberOfRecipes": 12,
+        "yearsOfExperience": 15,
+        "recipes": [
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2022/12/maamoul-FINAL-11-683x1024.jpg",
+                "recipeName": "Maamoul",
+                "ingredients": [
+                    "Clarified butter or Ghee",
+                    "Sugar",
+                    "Egg",
+                    "Orange blossom water or vanilla extract",
+                    "Orange blossom water or vanilla extract",
+                    "Mahleb",
+                    "Milk",
+                    "Date paste or puree pitted Medjool dates"
+                ],
+                "cookingMethod": [
+                    "Date paste or puree pitted Medjool dates. In a stand mixer fitted with the whisk attachment or using a hand-held mixer, beat the butter first on medium, then on high speed in a large bowl until creamy and light, about 3 minutes. Scrape down the sides of the bowl and add the sugar, egg, and orange blossom water or vanilla extract. Beat until the mixture is thick, pale, and creamy, another 2-3 minutes, scraping down the sides of the bowl once or twice during beating. Add the semolina, all-purpose flour. Combine until it becomes a crumbly dough. Add the semolina, all-purpose flour. Add the semolina, all-purpose flour. Bake the cookies, one sheet pan at a time, in the center of the oven, for 15-17 minutes, or until the cookies are a pale golden brown."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2019/09/Layered-Hummus-Dip-Recipe-4-683x1024.jpg",
+                "recipeName": "Layered hummus dip",
+                "ingredients": [
+                    "Extra virgin olive oil",
+                    "Red onion",
+                    "Garlic",
+                    "Green bell pepper",
+                    "Ground beef",
+                    "Spices",
+                    "Tomato sauce"
+                ],
+                "cookingMethod": [
+                    "Prepare hummus in advance using this recipe for creamy homemade hummus OR prepare 16-oz of quality store-bought plain hummus.",
+                    "To make the spiced beef topping, heat 1 tablespoon extra virgin olive oil in a skillet until shimmering but not smoking. Add most of the onions, keeping about 1 tablespoon or so for later. Add green peppers and garlic. Cook over medium-high heat for about 4 minutes or so, stirring regularly, until softened.",
+                    "Add lean ground beef and saute until fully browned (about 8 mins or so.) Carefully drain any excess fat and return skillet to heat. Season beef with kosher salt, pepper, allspice, sumac, and cinnamon. Stir in tomato sauce, and cook another 5 mins or so, stirring occasionally.",
+                    "Add lean ground beef and saute until fully browned (about 8 mins or so.) Carefully drain any excess fat and return skillet to heat. Season beef with kosher salt, pepper, allspice, sumac, and cinnamon. Stir in tomato sauce, and cook another 5 mins or so, stirring occasionally.",
+                    "Serve immediately with warm pita pockets or homemade pita chips. "
+                ],
+                "rating": 5
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2015/01/How-to-make-hummus-recipe-5-683x1024.jpg",
+                "recipeName": "Hummus",
+                "ingredients": [
+                    "Chickpeas (3 cups)",
+                    "Chickpeas (3 cups)",
+                    "Tahini (⅓ cup)",
+                    "Fresh Lemon Juice (from 1 lemon)",
+                    "Kosher Salt",
+                    "Extra Virgin Olive Oil",
+                    "Garnish"
+                ],
+                "cookingMethod": [
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms.",
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms.",
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2016/03/Lebanese-Rice-Recipe-9.jpg",
+                "recipeName": "Lebanese Rice With Vermicelli",
+                "ingredients": [
+                    "2 cups long grain or medium grain rice",
+                    "Water",
+                    "1 cup broken vermicelli pasta",
+                    "1 medium onion, finely chopped",
+                    "2 ½ tbsp olive oil",
+                    "Salt",
+                    "½ cup toasted pine nuts, optional to finish"
+                ],
+                "cookingMethod": [
+                    "Rinse the rice well (a few times) then place it in a medium bowl and cover with water. Soak for 15 to 20 minutes. Test to see if you can easily break a grain of rice by simply placing it between your thumb and index finger. Drain well.",
+                    "In a medium non-stick cooking pot, heat the olive oil on medium-high. Add the vermicelli and continuously stir to toast it evenly. Vermicelli should turn a nice golden brown, but watch carefully not to over-brown or burn it (If it burns, you must throw the vermicelli away and start over).",
+                    "Add the rice and continue to stir so that the rice will be well-coated with the olive oil. Season with salt.",
+                    "Now add 3 ½ cups of water and bring it to a boil until the water significantly reduces (see the photo below).Turn the heat to low and cover.",
+                    "Cook for 15-20 minutes on low. Once fully cooked, turn the heat off and leave the rice undisturbed in it's cooking pot for 10-15 minutes, then uncover and fluff with a fork.",
+                    "Salt",
+                    "Transfer to a serving platter and top with the toasted pine nuts. Enjoy!"
+                ],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chefId": 2,
+        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Reem-Azoury.jpg",
+        "chefName": "Reem Azoury",
+        "description": "Reem Azoury is a renowned Lebanese chef with 25 years of experience in the culinary industry. He is a master of blending traditional Lebanese flavors with modern techniques, resulting in unique and innovative dishes that are as visually stunning as they are delicious. Maroun has created over 150 recipes during his career, each one a testament to his creative genius and unwavering commitment to excellence. With a loyal fan base of foodies and culinary enthusiasts, Maroun continues to push the boundaries of Lebanese cuisine and inspire new generations of chefs.",
+        "likes": 70,
+        "numberOfRecipes": 15,
+        "yearsOfExperience": 25,
+        "recipes": [
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2022/03/mujadara-recipe-209-683x1024.jpg",
+                "recipeName": "Mujadara (mujaddara)",
+                "ingredients": [
+                    "1 cup black lentils, sorted and rinsed",
+                    "4 cups water, divided",
+                    "¼ cup Extra virgin olive oil, more for later",
+                    "2 large yellow onions, diced (4 cups)",
+                    "1 teaspoon kosher salt more to taste",
+                    "1 cup long-grain white rice, soaked in water for 10-15 minutes and then drained",
+                    "black pepper",
+                    "½ to 1 teaspoon cumin",
+                    "Parsley, for garnish",
+                    "extra virgin olive oil"
+                ],
+                "cookingMethod": [
+                    "Place the lentils in a small saucepan with 2 cups of the water. Bring the water to a boil over high heat, and then reduce the heat and simmer, cover until the lentils are par-boiled (10-12 minutes). Remove from the heat, drain the lentils and set them aside.",
+                    "In a large saute pan with a lid, heat the oil over medium-high heat. Add the diced onions and cook until the onions are dark golden brown, darker than typical caramelized onions (about 40 minutes), sprinkle the onions with a teaspoon of salt as they cook.",
+                    "Carefully pour the remaining 2 cups of water, bring the water to a boil over high heat, and then reduce the heat to low and simmer for 2 minutes. Stir the rice and par-cooked lentils into the onion mixture. Add a good dash of kosher salt, black pepper, and the cumin.",
+                    "Reduce the heat to low, cover, and cook until the liquid has been absorbed and the rice and lentils are both cooked through (about 15 to 20 minutes).",
+                    "If you are adding the the fried onions, work on them while the rice and lentils are cooking. In a large skillet, heat about 2 to 3 tablespoons extra virgin olive oil over medium-high heat. When a small piece of onion bubbles vigorously, the oil is ready. Fry the onions in batches until they are crispy and deeply golden brown. Transfer the crispy onion rings to a paper towel-lined plate to get rid of excess oil.",
+                    "Let the rice and lentils rest covered for about 10 minutes undisturbed, then garnish with parsley and transfer to serving bowls. Top each bowl with the crispy onion rings"
+                ],
+                "rating": 4.83
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2020/06/toum-recipe-7-400x600.jpg",
+                "recipeName": "Whipped Toum",
+                "ingredients": [
+                    "1 head garlic",
+                    "1 teaspoon kosher salt",
+                    "1 lemon juice",
+                    "1 ¾ cups grape seed oil or sunflower oil (a neutral tasting oil)",
+                    "4 to 6 tbsp ice water"
+                ],
+                "cookingMethod": [
+                    "Peel the garlic cloves. Cut the cloves in half and remove the green germ (this is optional).",
+                    "Place the garlic and kosher salt in the bowl of a food processor (a smaller one may work better here). Pulse a few times until the garlic looks minced, stopping to scrape down the sides. Add the lemon juice and pulse a few times to combine (again, scrape down the sides)",
+                    "While the food processor is running, drizzle the oil in ever so slowly (use the top opening of the processor to drizzle in the oil). After you've used about ¼ cup or so, add in about 1 tablespoon of the ice water. Stop to scrape down the sides of the processor bowl.",
+                    "Keep the processor running and continue to slowly drizzle in the oil, adding a tablespoon of the ice water after every ¼ cup of oil. Continue on with this process until you have used up the oil entirely. The garlic sauce has thickened and increased in volume (it should look smooth and fluffy). This should take somewhere around 10 minute or so."
+                ],
+                "rating": 4.4
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2022/12/maamoul-FINAL-11-683x1024.jpg",
+                "recipeName": "Maamoul",
+                "ingredients": [
+                    "Clarified butter or Ghee",
+                    "Sugar",
+                    "Egg",
+                    "Orange blossom water or vanilla extract",
+                    "Orange blossom water or vanilla extract",
+                    "Mahleb",
+                    "Milk",
+                    "Date paste or puree pitted Medjool dates"
+                ],
+                "cookingMethod": [
+                    "Date paste or puree pitted Medjool dates. In a stand mixer fitted with the whisk attachment or using a hand-held mixer, beat the butter first on medium, then on high speed in a large bowl until creamy and light, about 3 minutes. Scrape down the sides of the bowl and add the sugar, egg, and orange blossom water or vanilla extract. Beat until the mixture is thick, pale, and creamy, another 2-3 minutes, scraping down the sides of the bowl once or twice during beating. Add the semolina, all-purpose flour. Combine until it becomes a crumbly dough. Add the semolina, all-purpose flour. Add the semolina, all-purpose flour. Bake the cookies, one sheet pan at a time, in the center of the oven, for 15-17 minutes, or until the cookies are a pale golden brown."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2016/09/Kibbeh-Recipe-18-400x600.jpg",
+                "recipeName": "Kibbeh",
+                "ingredients": [
+                    "2 cups fine bulgur",
+                    "1 pound ground beef or lamb",
+                    "2 tablespoons vegetable oil",
+                    "1 medium onion, finely chopped",
+                    "1/4 cup pine nuts",
+                    "1 teaspoon ground cinnamon",
+                    "1/2 teaspoon ground allspice",
+                    "1/2 teaspoon ground black pepper",
+                    "1/2 teaspoon salt",
+                    "1/4 cup chopped fresh parsley"
+                ],
+                "cookingMethod": [
+                    "Cover a fine mesh strainer with a light cloth (a cheesecloth, if you have one). Add the bulgur wheat in, then place the strainer into a bowl filled with water. Let the fine bulgur wheat soak in the water for 15 minutes, then pull the cloth, holding the bulgur, and squeeze all the water out. You may do this a couple of times until you are sure the bulgur is rid of water. Set aside for now.",
+                    "Now make the kibbeh (the actual dough that you will later use to form the kibbeh shells). Put the onion, ground beef, spices and pinch of salt into the bowl of a large food processor. Process until the meat is very finely ground almost into a paste. Transfer the meat mixture into a large bowl and add the bulgur wheat. Use damp hands to combine the bulgur with the meat mixture to make a dough. Cover and refrigerate until later.",
+                    "Now make the filling. Heat about 1 tablespoon olive oil in a skillet or frying pan. Saute the onion until just golden, then add the ground beef. Cook over medium heat, stirring occasionally until the meat is fully browned. Add the toasted pine nuts, the spices, and the salt and pepper. Stir to combine. Remove from the heat and set aside to cool.",
+                    "With both the bowl of kibbeh dough and the filling near, you can begin stuffing the kibbeh. Dampen your hands with some water, take a handful of the kibbeh dough (about 2 tablespoon or so) and form into somewhat of an oval-shaped disc in the palm of one hand. Use your finger to make a well in the middle of the disc, and gradually hallow the disc out to make a larger well or hole for the filling. Using a spoon, add about 1 tablespoon of the filling. Seal the dough on top and, using both hands, carefully shape it into an oval (football-type shape). Place the stuffed kibbeh on the baking sheet lined with parchment paper. Repeat the stuffing steps until you run out, be sure to have damp hands throughout.",
+                    "Heat the oil in a deep frying pan to 350 degrees F (you'll want the oil hot enough that you can see some gentle bubbling, but not too hot where it will burn the kibbeh shells). Deep-fry the kibbeh in the hot oil, in batches being carefully not to crowd them, until the kibbeh shells are brown (about 5 minutes or so). With a slotted spoon or tongs, carefully remove the kibbeh and place them on a pan lined with paper towel to drain. Repeat until you have fried all the stuffed kibbeh."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chefId": 3,
+        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Alan-Geaam-Owner-and-Chef-Alan-Geaam-Restaurant-France.jpg",
+        "chefName": "Alan Geaam",
+        "description": "Alan Geaam is a passionate Lebanese chef with 20 years of experience in the culinary industry. He is best known for his focus on using locally sourced, seasonal ingredients to create authentic Lebanese dishes that are bursting with flavor and color. Kamal has created over 90 recipes during his career, each one a celebration of Lebanon's rich culinary heritage. His commitment to sustainability and community-building have earned him a loyal following of foodies and fans who appreciate his dedication to both good food and good causes.",
+        "likes": 150,
+        "numberOfRecipes": 8,
+        "yearsOfExperience": 20,
+        "recipes": [
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2015/03/Fattoush-Salad-Recipe-9-400x600.jpg",
+                "recipeName": "Fattoush",
+                "ingredients": [
+                    "2 loaves pita bread",
+                    "Extra virgin olive oil and Kosher salt",
+                    "2 tsp sumac, divided, more as needed",
+                    "1 heart of Romaine lettuce, chopped",
+                    "1 English cucumber, cut in half, seeds scraped, then chopped or sliced into half moons",
+                    "5 Roma tomatoes and 5 green onions (both white and green parts), chopped",
+                    "5 radishes, stems removed, thinly sliced",
+                    "2 cups chopped fresh parsley leaves, stems removed",
+                    "1 cup chopped fresh mint leaves (optional)"
+                ],
+                "cookingMethod": [
+                    "Break the pita bread into small bite-size pieces. Heat 3 tablespoon of olive oil in a large pan until shimmering, and add the pita bread. Fry briefly until browned, tossing frequently. Using a pair of tongs, transfer the fried pita chips to a plate lined with paper towel to drain.  Season with salt, pepper and sumac.",
+                    "In a large mixing bowl, combine the chopped lettuce, cucumber, tomatoes, green onions with the sliced radish and parsley.",
+                    "To make the dressing, in a small bowl, whisk together the lemon or lime juice, olive oil, pomegranate molasses (if using), salt, pepper and spices.",
+                    "Pour  toss lightly. Finally, add the pita chips, and more sumac if you like, and toss one more time. Transfer to small serving bowls or plates. Enjoy!",
+                    "1 English cucumber, cut in half, seeds scraped, then chopped or sliced into half moons"
+                ],
+                "rating": 5
+            },
+            {
+                "recipeImg": "",
+                "recipeName": "Kibbeh",
+                "ingredients": [
+                    "2 cups fine bulgur",
+                    "1 pound ground beef or lamb",
+                    "2 tablespoons vegetable oil",
+                    "1 medium onion, finely chopped",
+                    "1/4 cup pine nuts",
+                    "1 teaspoon ground cinnamon",
+                    "1/2 teaspoon ground allspice",
+                    "1/2 teaspoon ground black pepper",
+                    "1/2 teaspoon salt",
+                    "1/4 cup chopped fresh parsley"
+                ],
+                "cookingMethod": [
+                    "In a large bowl, cover bulgur with water and soak for 30 minutes. Drain and squeeze out excess water.",
+                    "In a separate bowl, mix together ground meat, oil, onion, pine nuts, cinnamon, allspice, pepper and salt.",
+                    "Combine meat mixture with bulgur and knead with your hands until well mixed.",
+                    "Preheat oven to 375°F. Press half of kibbeh mixture into the bottom of a greased 9x13 inch baking dish. Spread filling over kibbeh. Press remaining kibbeh mixture over filling.",
+                    "Bake for 40-45 minutes or until golden brown. Let cool for 10 minutes before serving. Garnish with parsley.",
+                    "Serve hot with yogurt or tahini sauce."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "",
+                "recipeName": "Kibbeh",
+                "ingredients": [
+                    "2 cups fine bulgur",
+                    "1 pound ground beef or lamb",
+                    "2 tablespoons vegetable oil",
+                    "1 medium onion, finely chopped",
+                    "1/4 cup pine nuts",
+                    "1 teaspoon ground cinnamon",
+                    "1/2 teaspoon ground allspice",
+                    "1/2 teaspoon ground black pepper",
+                    "1/2 teaspoon salt",
+                    "1/4 cup chopped fresh parsley"
+                ],
+                "cookingMethod": [
+                    "In a large bowl, cover bulgur with water and soak for 30 minutes. Drain and squeeze out excess water.",
+                    "In a separate bowl, mix together ground meat, oil, onion, pine nuts, cinnamon, allspice, pepper and salt.",
+                    "Combine meat mixture with bulgur and knead with your hands until well mixed.",
+                    "Preheat oven to 375°F. Press half of kibbeh mixture into the bottom of a greased 9x13 inch baking dish. Spread filling over kibbeh. Press remaining kibbeh mixture over filling.",
+                    "Bake for 40-45 minutes or until golden brown. Let cool for 10 minutes before serving. Garnish with parsley.",
+                    "Serve hot with yogurt or tahini sauce."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "",
+                "recipeName": "Kibbeh",
+                "ingredients": [
+                    "2 cups fine bulgur",
+                    "1 pound ground beef or lamb",
+                    "2 tablespoons vegetable oil",
+                    "1 medium onion, finely chopped",
+                    "1/4 cup pine nuts",
+                    "1 teaspoon ground cinnamon",
+                    "1/2 teaspoon ground allspice",
+                    "1/2 teaspoon ground black pepper",
+                    "1/2 teaspoon salt",
+                    "1/4 cup chopped fresh parsley"
+                ],
+                "cookingMethod": [
+                    "In a large bowl, cover bulgur with water and soak for 30 minutes. Drain and squeeze out excess water.",
+                    "In a separate bowl, mix together ground meat, oil, onion, pine nuts, cinnamon, allspice, pepper and salt.",
+                    "Combine meat mixture with bulgur and knead with your hands until well mixed.",
+                    "Preheat oven to 375°F. Press half of kibbeh mixture into the bottom of a greased 9x13 inch baking dish. Spread filling over kibbeh. Press remaining kibbeh mixture over filling.",
+                    "Bake for 40-45 minutes or until golden brown. Let cool for 10 minutes before serving. Garnish with parsley.",
+                    "Serve hot with yogurt or tahini sauce."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chefId": 4,
+        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Hussein-Hadid-Hussein-Hadid-Catering-and-Food-Consulting.jpg",
+        "chefName": "Hussein Hadid",
+        "description": "Hussein Hadid is a talented Lebanese chef with 12 years of experience in the culinary industry. He has a passion for creating traditional Lebanese dishes with a modern twist, using innovative techniques and creative flavor combinations to elevate classic recipes to new heights. Riad has created over 220 recipes during his career, each one a testament to his skill and dedication to his craft. His attention to detail and commitment to quality have earned him a loyal following of foodies and culinary enthusiasts who appreciate his unique take on Lebanese cuisine.",
+        "likes": 220,
+        "numberOfRecipes": 20,
+        "yearsOfExperience": 12,
+        "recipes": [
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2022/12/maamoul-FINAL-11-683x1024.jpg",
+                "recipeName": "Maamoul",
+                "ingredients": [
+                    "Clarified butter or Ghee",
+                    "Sugar",
+                    "Egg",
+                    "Orange blossom water or vanilla extract",
+                    "Orange blossom water or vanilla extract",
+                    "Mahleb",
+                    "Milk",
+                    "Date paste or puree pitted Medjool dates"
+                ],
+                "cookingMethod": [
+                    "Date paste or puree pitted Medjool dates. In a stand mixer fitted with the whisk attachment or using a hand-held mixer, beat the butter first on medium, then on high speed in a large bowl until creamy and light, about 3 minutes. Scrape down the sides of the bowl and add the sugar, egg, and orange blossom water or vanilla extract. Beat until the mixture is thick, pale, and creamy, another 2-3 minutes, scraping down the sides of the bowl once or twice during beating. Add the semolina, all-purpose flour. Combine until it becomes a crumbly dough. Add the semolina, all-purpose flour. Add the semolina, all-purpose flour. Bake the cookies, one sheet pan at a time, in the center of the oven, for 15-17 minutes, or until the cookies are a pale golden brown."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2019/09/Layered-Hummus-Dip-Recipe-4-683x1024.jpg",
+                "recipeName": "Layered hummus dip",
+                "ingredients": [
+                    "Extra virgin olive oil",
+                    "Red onion",
+                    "Garlic",
+                    "Green bell pepper",
+                    "Ground beef",
+                    "Spices",
+                    "Tomato sauce"
+                ],
+                "cookingMethod": [
+                    "Prepare hummus in advance using this recipe for creamy homemade hummus OR prepare 16-oz of quality store-bought plain hummus.",
+                    "To make the spiced beef topping, heat 1 tablespoon extra virgin olive oil in a skillet until shimmering but not smoking. Add most of the onions, keeping about 1 tablespoon or so for later. Add green peppers and garlic. Cook over medium-high heat for about 4 minutes or so, stirring regularly, until softened.",
+                    "Add lean ground beef and saute until fully browned (about 8 mins or so.) Carefully drain any excess fat and return skillet to heat. Season beef with kosher salt, pepper, allspice, sumac, and cinnamon. Stir in tomato sauce, and cook another 5 mins or so, stirring occasionally.",
+                    "Add lean ground beef and saute until fully browned (about 8 mins or so.) Carefully drain any excess fat and return skillet to heat. Season beef with kosher salt, pepper, allspice, sumac, and cinnamon. Stir in tomato sauce, and cook another 5 mins or so, stirring occasionally.",
+                    "Serve immediately with warm pita pockets or homemade pita chips. "
+                ],
+                "rating": 5
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2015/01/How-to-make-hummus-recipe-5-683x1024.jpg",
+                "recipeName": "Hummus",
+                "ingredients": [
+                    "Chickpeas (3 cups)",
+                    "Chickpeas (3 cups)",
+                    "Tahini (⅓ cup)",
+                    "Fresh Lemon Juice (from 1 lemon)",
+                    "Kosher Salt",
+                    "Extra Virgin Olive Oil",
+                    "Garnish"
+                ],
+                "cookingMethod": [
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms.",
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms.",
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2016/03/Lebanese-Rice-Recipe-9.jpg",
+                "recipeName": "Lebanese Rice With Vermicelli",
+                "ingredients": [
+                    "2 cups long grain or medium grain rice",
+                    "Water",
+                    "1 cup broken vermicelli pasta",
+                    "1 medium onion, finely chopped",
+                    "2 ½ tbsp olive oil",
+                    "Salt",
+                    "½ cup toasted pine nuts, optional to finish"
+                ],
+                "cookingMethod": [
+                    "Rinse the rice well (a few times) then place it in a medium bowl and cover with water. Soak for 15 to 20 minutes. Test to see if you can easily break a grain of rice by simply placing it between your thumb and index finger. Drain well.",
+                    "In a medium non-stick cooking pot, heat the olive oil on medium-high. Add the vermicelli and continuously stir to toast it evenly. Vermicelli should turn a nice golden brown, but watch carefully not to over-brown or burn it (If it burns, you must throw the vermicelli away and start over).",
+                    "Add the rice and continue to stir so that the rice will be well-coated with the olive oil. Season with salt.",
+                    "Now add 3 ½ cups of water and bring it to a boil until the water significantly reduces (see the photo below).Turn the heat to low and cover.",
+                    "Cook for 15-20 minutes on low. Once fully cooked, turn the heat off and leave the rice undisturbed in it's cooking pot for 10-15 minutes, then uncover and fluff with a fork.",
+                    "Salt",
+                    "Transfer to a serving platter and top with the toasted pine nuts. Enjoy!"
+                ],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chefId": 5,
+        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Reem-Azoury.jpg",
+        "chefName": "Reem Azoury",
+        "description": "Reem Azoury is a talented Lebanese chef with 12 years of experience in the culinary industry. He has a passion for creating traditional Lebanese dishes with a modern twist, using innovative techniques and creative flavor combinations to elevate classic recipes to new heights. Riad has created over 220 recipes during his career, each one a testament to his skill and dedication to his craft. His attention to detail and commitment to quality have earned him a loyal following of foodies and culinary enthusiasts who appreciate his unique take on Lebanese cuisine.",
+        "likes": 220,
+        "numberOfRecipes": 20,
+        "yearsOfExperience": 12,
+        "recipes": [
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2022/03/mujadara-recipe-209-683x1024.jpg",
+                "recipeName": "Mujadara (mujaddara)",
+                "ingredients": [
+                    "1 cup black lentils, sorted and rinsed",
+                    "4 cups water, divided",
+                    "¼ cup Extra virgin olive oil, more for later",
+                    "2 large yellow onions, diced (4 cups)",
+                    "1 teaspoon kosher salt more to taste",
+                    "1 cup long-grain white rice, soaked in water for 10-15 minutes and then drained",
+                    "black pepper",
+                    "½ to 1 teaspoon cumin",
+                    "Parsley, for garnish",
+                    "extra virgin olive oil"
+                ],
+                "cookingMethod": [
+                    "Place the lentils in a small saucepan with 2 cups of the water. Bring the water to a boil over high heat, and then reduce the heat and simmer, cover until the lentils are par-boiled (10-12 minutes). Remove from the heat, drain the lentils and set them aside.",
+                    "In a large saute pan with a lid, heat the oil over medium-high heat. Add the diced onions and cook until the onions are dark golden brown, darker than typical caramelized onions (about 40 minutes), sprinkle the onions with a teaspoon of salt as they cook.",
+                    "Carefully pour the remaining 2 cups of water, bring the water to a boil over high heat, and then reduce the heat to low and simmer for 2 minutes. Stir the rice and par-cooked lentils into the onion mixture. Add a good dash of kosher salt, black pepper, and the cumin.",
+                    "Reduce the heat to low, cover, and cook until the liquid has been absorbed and the rice and lentils are both cooked through (about 15 to 20 minutes).",
+                    "If you are adding the the fried onions, work on them while the rice and lentils are cooking. In a large skillet, heat about 2 to 3 tablespoons extra virgin olive oil over medium-high heat. When a small piece of onion bubbles vigorously, the oil is ready. Fry the onions in batches until they are crispy and deeply golden brown. Transfer the crispy onion rings to a paper towel-lined plate to get rid of excess oil.",
+                    "Let the rice and lentils rest covered for about 10 minutes undisturbed, then garnish with parsley and transfer to serving bowls. Top each bowl with the crispy onion rings"
+                ],
+                "rating": 4.83
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2020/06/toum-recipe-7-400x600.jpg",
+                "recipeName": "Whipped Toum",
+                "ingredients": [
+                    "1 head garlic",
+                    "1 teaspoon kosher salt",
+                    "1 lemon juice",
+                    "1 ¾ cups grape seed oil or sunflower oil (a neutral tasting oil)",
+                    "4 to 6 tbsp ice water"
+                ],
+                "cookingMethod": [
+                    "Peel the garlic cloves. Cut the cloves in half and remove the green germ (this is optional).",
+                    "Place the garlic and kosher salt in the bowl of a food processor (a smaller one may work better here). Pulse a few times until the garlic looks minced, stopping to scrape down the sides. Add the lemon juice and pulse a few times to combine (again, scrape down the sides)",
+                    "While the food processor is running, drizzle the oil in ever so slowly (use the top opening of the processor to drizzle in the oil). After you've used about ¼ cup or so, add in about 1 tablespoon of the ice water. Stop to scrape down the sides of the processor bowl.",
+                    "Keep the processor running and continue to slowly drizzle in the oil, adding a tablespoon of the ice water after every ¼ cup of oil. Continue on with this process until you have used up the oil entirely. The garlic sauce has thickened and increased in volume (it should look smooth and fluffy). This should take somewhere around 10 minute or so."
+                ],
+                "rating": 4.4
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2022/12/maamoul-FINAL-11-683x1024.jpg",
+                "recipeName": "Maamoul",
+                "ingredients": [
+                    "Clarified butter or Ghee",
+                    "Sugar",
+                    "Egg",
+                    "Orange blossom water or vanilla extract",
+                    "Orange blossom water or vanilla extract",
+                    "Mahleb",
+                    "Milk",
+                    "Date paste or puree pitted Medjool dates"
+                ],
+                "cookingMethod": [
+                    "Date paste or puree pitted Medjool dates. In a stand mixer fitted with the whisk attachment or using a hand-held mixer, beat the butter first on medium, then on high speed in a large bowl until creamy and light, about 3 minutes. Scrape down the sides of the bowl and add the sugar, egg, and orange blossom water or vanilla extract. Beat until the mixture is thick, pale, and creamy, another 2-3 minutes, scraping down the sides of the bowl once or twice during beating. Add the semolina, all-purpose flour. Combine until it becomes a crumbly dough. Add the semolina, all-purpose flour. Add the semolina, all-purpose flour. Bake the cookies, one sheet pan at a time, in the center of the oven, for 15-17 minutes, or until the cookies are a pale golden brown."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2016/09/Kibbeh-Recipe-18-400x600.jpg",
+                "recipeName": "Kibbeh",
+                "ingredients": [
+                    "2 cups fine bulgur",
+                    "1 pound ground beef or lamb",
+                    "2 tablespoons vegetable oil",
+                    "1 medium onion, finely chopped",
+                    "1/4 cup pine nuts",
+                    "1 teaspoon ground cinnamon",
+                    "1/2 teaspoon ground allspice",
+                    "1/2 teaspoon ground black pepper",
+                    "1/2 teaspoon salt",
+                    "1/4 cup chopped fresh parsley"
+                ],
+                "cookingMethod": [
+                    "Cover a fine mesh strainer with a light cloth (a cheesecloth, if you have one). Add the bulgur wheat in, then place the strainer into a bowl filled with water. Let the fine bulgur wheat soak in the water for 15 minutes, then pull the cloth, holding the bulgur, and squeeze all the water out. You may do this a couple of times until you are sure the bulgur is rid of water. Set aside for now.",
+                    "Now make the kibbeh (the actual dough that you will later use to form the kibbeh shells). Put the onion, ground beef, spices and pinch of salt into the bowl of a large food processor. Process until the meat is very finely ground almost into a paste. Transfer the meat mixture into a large bowl and add the bulgur wheat. Use damp hands to combine the bulgur with the meat mixture to make a dough. Cover and refrigerate until later.",
+                    "Now make the filling. Heat about 1 tablespoon olive oil in a skillet or frying pan. Saute the onion until just golden, then add the ground beef. Cook over medium heat, stirring occasionally until the meat is fully browned. Add the toasted pine nuts, the spices, and the salt and pepper. Stir to combine. Remove from the heat and set aside to cool.",
+                    "With both the bowl of kibbeh dough and the filling near, you can begin stuffing the kibbeh. Dampen your hands with some water, take a handful of the kibbeh dough (about 2 tablespoon or so) and form into somewhat of an oval-shaped disc in the palm of one hand. Use your finger to make a well in the middle of the disc, and gradually hallow the disc out to make a larger well or hole for the filling. Using a spoon, add about 1 tablespoon of the filling. Seal the dough on top and, using both hands, carefully shape it into an oval (football-type shape). Place the stuffed kibbeh on the baking sheet lined with parchment paper. Repeat the stuffing steps until you run out, be sure to have damp hands throughout.",
+                    "Heat the oil in a deep frying pan to 350 degrees F (you'll want the oil hot enough that you can see some gentle bubbling, but not too hot where it will burn the kibbeh shells). Deep-fry the kibbeh in the hot oil, in batches being carefully not to crowd them, until the kibbeh shells are brown (about 5 minutes or so). With a slotted spoon or tongs, carefully remove the kibbeh and place them on a pan lined with paper towel to drain. Repeat until you have fried all the stuffed kibbeh."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chefId": 6,
+        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Hussein-Hadid-Hussein-Hadid-Catering-and-Food-Consulting.jpg",
+        "chefName": "Hussein Hadid",
+        "description": "Hussein Hadid is a talented Lebanese chef with 12 years of experience in the culinary industry. He has a passion for creating traditional Lebanese dishes with a modern twist, using innovative techniques and creative flavor combinations to elevate classic recipes to new heights. Riad has created over 220 recipes during his career, each one a testament to his skill and dedication to his craft. His attention to detail and commitment to quality have earned him a loyal following of foodies and culinary enthusiasts who appreciate his unique take on Lebanese cuisine.",
+        "likes": 98,
+        "numberOfRecipes": 14,
+        "yearsOfExperience": 9,
+        "recipes": [
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2022/12/maamoul-FINAL-11-683x1024.jpg",
+                "recipeName": "Maamoul",
+                "ingredients": [
+                    "Clarified butter or Ghee",
+                    "Sugar",
+                    "Egg",
+                    "Orange blossom water or vanilla extract",
+                    "Orange blossom water or vanilla extract",
+                    "Mahleb",
+                    "Milk",
+                    "Date paste or puree pitted Medjool dates"
+                ],
+                "cookingMethod": [
+                    "Date paste or puree pitted Medjool dates. In a stand mixer fitted with the whisk attachment or using a hand-held mixer, beat the butter first on medium, then on high speed in a large bowl until creamy and light, about 3 minutes. Scrape down the sides of the bowl and add the sugar, egg, and orange blossom water or vanilla extract. Beat until the mixture is thick, pale, and creamy, another 2-3 minutes, scraping down the sides of the bowl once or twice during beating. Add the semolina, all-purpose flour. Combine until it becomes a crumbly dough. Add the semolina, all-purpose flour. Add the semolina, all-purpose flour. Bake the cookies, one sheet pan at a time, in the center of the oven, for 15-17 minutes, or until the cookies are a pale golden brown."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2019/09/Layered-Hummus-Dip-Recipe-4-683x1024.jpg",
+                "recipeName": "Layered hummus dip",
+                "ingredients": [
+                    "Extra virgin olive oil",
+                    "Red onion",
+                    "Garlic",
+                    "Green bell pepper",
+                    "Ground beef",
+                    "Spices",
+                    "Tomato sauce"
+                ],
+                "cookingMethod": [
+                    "Prepare hummus in advance using this recipe for creamy homemade hummus OR prepare 16-oz of quality store-bought plain hummus.",
+                    "To make the spiced beef topping, heat 1 tablespoon extra virgin olive oil in a skillet until shimmering but not smoking. Add most of the onions, keeping about 1 tablespoon or so for later. Add green peppers and garlic. Cook over medium-high heat for about 4 minutes or so, stirring regularly, until softened.",
+                    "Add lean ground beef and saute until fully browned (about 8 mins or so.) Carefully drain any excess fat and return skillet to heat. Season beef with kosher salt, pepper, allspice, sumac, and cinnamon. Stir in tomato sauce, and cook another 5 mins or so, stirring occasionally.",
+                    "Add lean ground beef and saute until fully browned (about 8 mins or so.) Carefully drain any excess fat and return skillet to heat. Season beef with kosher salt, pepper, allspice, sumac, and cinnamon. Stir in tomato sauce, and cook another 5 mins or so, stirring occasionally.",
+                    "Serve immediately with warm pita pockets or homemade pita chips. "
+                ],
+                "rating": 5
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2015/01/How-to-make-hummus-recipe-5-683x1024.jpg",
+                "recipeName": "Hummus",
+                "ingredients": [
+                    "Chickpeas (3 cups)",
+                    "Chickpeas (3 cups)",
+                    "Tahini (⅓ cup)",
+                    "Fresh Lemon Juice (from 1 lemon)",
+                    "Kosher Salt",
+                    "Extra Virgin Olive Oil",
+                    "Garnish"
+                ],
+                "cookingMethod": [
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms.",
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms.",
+                    "Add chickpeas and minced garlic to the bowl of a food processor. Puree until a smooth, powder-like mixture forms."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipeImg": "https://www.themediterraneandish.com/wp-content/uploads/2016/03/Lebanese-Rice-Recipe-9.jpg",
+                "recipeName": "Lebanese Rice With Vermicelli",
+                "ingredients": [
+                    "2 cups long grain or medium grain rice",
+                    "Water",
+                    "1 cup broken vermicelli pasta",
+                    "1 medium onion, finely chopped",
+                    "2 ½ tbsp olive oil",
+                    "Salt",
+                    "½ cup toasted pine nuts, optional to finish"
+                ],
+                "cookingMethod": [
+                    "Rinse the rice well (a few times) then place it in a medium bowl and cover with water. Soak for 15 to 20 minutes. Test to see if you can easily break a grain of rice by simply placing it between your thumb and index finger. Drain well.",
+                    "In a medium non-stick cooking pot, heat the olive oil on medium-high. Add the vermicelli and continuously stir to toast it evenly. Vermicelli should turn a nice golden brown, but watch carefully not to over-brown or burn it (If it burns, you must throw the vermicelli away and start over).",
+                    "Add the rice and continue to stir so that the rice will be well-coated with the olive oil. Season with salt.",
+                    "Now add 3 ½ cups of water and bring it to a boil until the water significantly reduces (see the photo below).Turn the heat to low and cover.",
+                    "Cook for 15-20 minutes on low. Once fully cooked, turn the heat off and leave the rice undisturbed in it's cooking pot for 10-15 minutes, then uncover and fluff with a fork.",
+                    "Salt",
+                    "Transfer to a serving platter and top with the toasted pine nuts. Enjoy!"
+                ],
+                "rating": 4.9
+            }
+        ]
+    }
+]
