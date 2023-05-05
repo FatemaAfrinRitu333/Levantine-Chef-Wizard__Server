@@ -2,7 +2,7 @@
     {
         "chefId": 1,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Barbara-Massaad-Cookbook-Author-President-Slow-Food-Beirut.jpg",
-        "chefName": "Barbara Massaad",
+        "chefName": "Chef Barbara Massaad",
         "description": "Barbara Massaad is a Lebanese chef with 15 years of experience in the culinary industry. He has a passion for creating innovative and delicious dishes that showcase the flavors of Lebanon. With 120 recipes under his belt, Jad is constantly experimenting with new ingredients and techniques to surprise and delight his customers. His dedication to quality and attention to detail have earned him a loyal following of foodies who appreciate his commitment to excellence.",
         "likes": 120,
         "numberOfRecipes": 12,
@@ -94,7 +94,7 @@
     {
         "chefId": 2,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Reem-Azoury.jpg",
-        "chefName": "Reem Azoury",
+        "chefName": "Chef Reem Azoury",
         "description": "Reem Azoury is a renowned Lebanese chef with 25 years of experience in the culinary industry. He is a master of blending traditional Lebanese flavors with modern techniques, resulting in unique and innovative dishes that are as visually stunning as they are delicious. Maroun has created over 150 recipes during his career, each one a testament to his creative genius and unwavering commitment to excellence. With a loyal fan base of foodies and culinary enthusiasts, Maroun continues to push the boundaries of Lebanese cuisine and inspire new generations of chefs.",
         "likes": 70,
         "numberOfRecipes": 15,
@@ -190,7 +190,7 @@
     {
         "chefId": 3,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Alan-Geaam-Owner-and-Chef-Alan-Geaam-Restaurant-France.jpg",
-        "chefName": "Alan Geaam",
+        "chefName": "Chef Alan Geaam",
         "description": "Alan Geaam is a passionate Lebanese chef with 20 years of experience in the culinary industry. He is best known for his focus on using locally sourced, seasonal ingredients to create authentic Lebanese dishes that are bursting with flavor and color. Kamal has created over 90 recipes during his career, each one a celebration of Lebanon's rich culinary heritage. His commitment to sustainability and community-building have earned him a loyal following of foodies and fans who appreciate his dedication to both good food and good causes.",
         "likes": 150,
         "numberOfRecipes": 8,
@@ -299,7 +299,7 @@
     {
         "chefId": 4,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Hussein-Hadid-Hussein-Hadid-Catering-and-Food-Consulting.jpg",
-        "chefName": "Hussein Hadid",
+        "chefName": "Chef Hussein Hadid",
         "description": "Hussein Hadid is a talented Lebanese chef with 12 years of experience in the culinary industry. He has a passion for creating traditional Lebanese dishes with a modern twist, using innovative techniques and creative flavor combinations to elevate classic recipes to new heights. Riad has created over 220 recipes during his career, each one a testament to his skill and dedication to his craft. His attention to detail and commitment to quality have earned him a loyal following of foodies and culinary enthusiasts who appreciate his unique take on Lebanese cuisine.",
         "likes": 220,
         "numberOfRecipes": 20,
@@ -390,9 +390,9 @@
     },
     {
         "chefId": 5,
-        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Reem-Azoury.jpg",
-        "chefName": "Reem Azoury",
-        "description": "Reem Azoury is a talented Lebanese chef with 12 years of experience in the culinary industry. He has a passion for creating traditional Lebanese dishes with a modern twist, using innovative techniques and creative flavor combinations to elevate classic recipes to new heights. Riad has created over 220 recipes during his career, each one a testament to his skill and dedication to his craft. His attention to detail and commitment to quality have earned him a loyal following of foodies and culinary enthusiasts who appreciate his unique take on Lebanese cuisine.",
+        "chefPicture": "https://images.squarespace-cdn.com/content/v1/5f6b5066fe39c55ff4c2da9e/1624976719323-NQZI6L9V0DWSCRRJ0UX3/abdal.jpeg?format=750w",
+        "chefName": "Chef Abdalrahman Ayyad",
+        "description": "Chef Abdalrahman Ayyad was born of Palestinian descent in Jerusalem, spending the majority of his life in Jordan. He’s a young and exceptionally ambitious chef in NYC, currently finding his way on the culinary map. After earning his culinary degree from Les Roches in Jordan, he moved to Hong Kong and started his career at Nobu. He represented Jordan in the Hans Bueschkens Global Chefs Challenge, then worked with the pre-opening team of W Amman hotel. Not long after, he got the incredible opportunity to work for the world-renowned Chef Jean-Georges. Chef Abdalrahman Ayyad creates flavorsome dishes that encapsulate the flavors and culture of his Levant heritage.",
         "likes": 220,
         "numberOfRecipes": 20,
         "yearsOfExperience": 12,
@@ -486,9 +486,9 @@
     },
     {
         "chefId": 6,
-        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Hussein-Hadid-Hussein-Hadid-Catering-and-Food-Consulting.jpg",
-        "chefName": "Hussein Hadid",
-        "description": "Hussein Hadid is a talented Lebanese chef with 12 years of experience in the culinary industry. He has a passion for creating traditional Lebanese dishes with a modern twist, using innovative techniques and creative flavor combinations to elevate classic recipes to new heights. Riad has created over 220 recipes during his career, each one a testament to his skill and dedication to his craft. His attention to detail and commitment to quality have earned him a loyal following of foodies and culinary enthusiasts who appreciate his unique take on Lebanese cuisine.",
+        "chefPicture": "https://th.bing.com/th/id/OIP.4mLtq__6cGCd3zXcNdEZbgHaLG?pid=ImgDet&rs=1",
+        "chefName": "Chef Joe Barza",
+        "description": "Joe Barza, an international Master Celebrity Chef, is world-renowned for his specialization in Lebanese Cuisine. With more than 30 years of professional cooking and kitchen management experience, Chef Joe proudly positions himself as the Lebanese Terroir Culinary Artist. Backed with years of professionalism, dedication, and achievements, Joe Barza introduced in 2009 his brainchild, the 'Joe Barza Culinary Consultancy' specializing in food and beverage consultancy, kitchen design, recruiting services, and training activities. For Joe Barza, each project is a challenge and a quest to seek new boundaries and to introduce new signature culinary trends; this is why his portfolio is home to over 30 brands of consultancy and endorsement, 100 local and international events participation in 27 countries, and 25 Lebanese Cuisine promotion events in international hotels and culinary establishments.",
         "likes": 98,
         "numberOfRecipes": 14,
         "yearsOfExperience": 9,

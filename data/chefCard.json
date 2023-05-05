@@ -2,7 +2,7 @@
     {
         "id": 1,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Barbara-Massaad-Cookbook-Author-President-Slow-Food-Beirut.jpg",
-        "chefName": "Barbara Massaad",
+        "chefName": "Chef Barbara Massaad",
         "yearsOfExperience": 15,
         "numberOfRecipes": 12,
         "likes": 120
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Reem-Azoury.jpg",
-        "chefName": "Reem Azoury",
+        "chefName": "Chef Reem Azoury",
         "yearsOfExperience": 25,
         "numberOfRecipes": 15,
         "likes": 70
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Alan-Geaam-Owner-and-Chef-Alan-Geaam-Restaurant-France.jpg",
-        "chefName": "Alan Geaam",
+        "chefName": "Chef Alan Geaam",
         "yearsOfExperience": 20,
         "numberOfRecipes": 8,
         "likes": 150
@@ -26,15 +26,15 @@
     {
         "id": 4,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Hussein-Hadid-Hussein-Hadid-Catering-and-Food-Consulting.jpg",
-        "chefName": "Hussein Hadid",
+        "chefName": "Chef Hussein Hadid",
         "yearsOfExperience": 12,
         "numberOfRecipes": 20,
         "likes": 220
     },
     {
         "id": 5,
-        "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Reem-Azoury.jpg",
-        "chefName": "Reem Azoury",
+        "chefPicture": "https://images.squarespace-cdn.com/content/v1/5f6b5066fe39c55ff4c2da9e/1624976719323-NQZI6L9V0DWSCRRJ0UX3/abdal.jpeg?format=750w",
+        "chefName": "Chef Abdalrahman Ayyad",
         "yearsOfExperience": 12,
         "numRecipes": 18,
         "likes": 245
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "chefPicture": "https://www.hospitalitynewsmag.com/wp-content/uploads/2019/06/Hussein-Hadid-Hussein-Hadid-Catering-and-Food-Consulting.jpg",
-        "chefName": "Hussein Hadid",
+        "chefName": "Chef Hussein Hadid",
         "yearsOfExperience": 9,
         "numRecipes": 14,
         "likes": 98
